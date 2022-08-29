@@ -35,7 +35,7 @@
 
 
   
-### CONTACT
+### Contact
 
 <a href="https://www.linkedin.com/in/duusiqueira92/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -43,4 +43,10 @@
 
 <a href="mailto:dev.siqueira92@outlook.com">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+</a>
+
+  
+### CV
+<a href="https://www.figma.com/file/gIK4R0fYev7DLwQOgGBzLq/CV-Eduardo-Siqueira?node-id=0%3A1">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </a>
