@@ -1,3 +1,4 @@
+
 <h3 align="center">
   Welcome to Eduardo Siqueira's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -7,8 +8,9 @@
 
 ### Stats
 <div>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=devsiqueira92&count_private=true&show_icons=true&theme=dark">
-  <img width="56%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsiqueira92&count_private=true&show_icons=true&theme=dark">
+
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=devsiqueira92&&count_private=true&show_icons=true&theme=dark">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsiqueira92&theme=dark">
 </div>
   
 
