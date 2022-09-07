@@ -9,8 +9,8 @@
 ### Stats
 <div>
 
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=devsiqueira92&&count_private=true&show_icons=true&theme=dark">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsiqueira92&theme=dark">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=edsiqueira&&count_private=true&show_icons=true&theme=dark">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsiqueira&theme=dark">
 </div>
   
 
