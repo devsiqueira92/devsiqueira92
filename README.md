@@ -47,9 +47,3 @@
 <a href="mailto:dev.siqueira92@outlook.com">
   <img height="25" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
 </a>
-
-  
-### CV
-<a href="https://www.figma.com/file/gIK4R0fYev7DLwQOgGBzLq/CV-Eduardo-Siqueira?node-id=0%3A1">
-  <img height="25" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-</a>
